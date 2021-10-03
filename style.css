@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+h1 {
+    text-shadow: 2px 2px pink;
+    font-size: 20px;
+}
+
+p {
+    font-size: 30px;
+    color: blue;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    cursor: pointer;
+    color: chartreuse;
+    font-size: 20px;
+    text-shadow: pink;
+}
+#contacts{
+    font-size:70px;
+    font-family: cursive;
+    color: aquamarine;
+}
+p{
+    color: azure;
+}
